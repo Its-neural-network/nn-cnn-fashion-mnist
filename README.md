@@ -6,17 +6,17 @@ This is a sample test code for keras fashion-mnist data set
   <img  src="./images/1.png">
 </p>  
 
-### Train DataSet
+### Training DataSet
 <p align="left">
   <img  src="./images/2.png">
 </p>
 
-### Result after training for number Seven
+### Result after training for Ankle boot
 <p align="left">
   <img  src="./images/3.png">
 </p>
 
-### Result after training for number Nine
+### Result after training for Sneaker
 <p align="left">
   <img  src="./images/4.png">
 </p>
